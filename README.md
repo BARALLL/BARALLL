@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Mathis</h1>
-<h3 align="center">1st year engineering student in computer science, networking, and cybersecurity with a strong interest in artificial intelligence.</h3>
+<h3 align="center">3rd year student at Grenoble INP – ESISAR pursuing a Master's degree in engineering, specializing in Computer Science, Networks & Cybersecurity</h3>
 
-- 🔭 I’m currently working on **creating an HTTP server in C, on a python addon for blender to create/edit SHP0 files and a c# WPF desktop applications using Tensorflow to generate racing track heightmap images**
+- 🔭 I’m currently working on **creating an HTTP server in C, on a python addon for blender to create/edit SHP0 files and a c# WPF desktop application using ML.NET to generate racing track heightmap images**
 
-- 🌱 I’m currently learning **the Java langage** and **Tensorflow**
+- 🌱 I’m currently learning **Java** and **ML.NET**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
